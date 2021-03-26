@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on java
 - 🌱 I’m currently learning dart
-- 👯 I’m looking to collaborate on anything
+- 👯 I’m looking to collaborate on any projects
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about anything
 - 📫 How to reach me: vignesh929r@gmail.com
