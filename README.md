@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: vignesh929r@gmail.com
 - ⚡ Fun fact: 01010010 01001111 01010100 00110001 00110011
-               pbatengf lbh ner travhf  
+-               pbatengf lbh ner travhf  
 
