@@ -12,13 +12,11 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on cool projects
 
-- 🤔 I’m looking for help with anyone
-
-- 💬 Ask me about anything
+- 💬 Ask me about anything I know
 
 - 👨‍💻 All of my projects are available at [https://github.com/codervignesh](https://github.com/codervignesh)  
 
-- 📫 How to reach me: vignesh929r@gmail.com
+- 📫 Reach me through: vignesh929r@gmail.com
 
 - ⚡ Fun fact: 01010010 01001111 01010100 00110001 00110011 <br /> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;pbatengf lbh ner travhf  
