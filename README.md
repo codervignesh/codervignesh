@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about anything
 - 📫 How to reach me: vignesh929r@gmail.com
-- ⚡ Fun fact: 01010010 01001111 01010100 00110001 00110011
--               pbatengf lbh ner travhf  
+- ⚡ Fun fact: 01010010 01001111 01010100 00110001 00110011 <br /> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;pbatengf lbh ner travhf  
 
