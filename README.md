@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: 01010010 01001111 01010100 00110001 00110011 <br /> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;pbatengf lbh ner travhf  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;JUST LEAVE IT ...
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;JUST LEAVE IT...
 
   
 <p align="left">  
