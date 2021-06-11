@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 # Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=codervignesh&show_icons=true&theme=radical)
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervignesh&layout=compact" alt="codervignesh" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervignesh&layout=compact" alt="codervignesh" /></p>   
 
