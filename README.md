@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on java
 
+<!--
 - 🌱 I’m currently learning dart
+-->
 
 - 👯 I’m looking to collaborate on cool projects
 
