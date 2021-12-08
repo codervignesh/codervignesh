@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh R &nbsp;<img align="center" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/></h1>  
-<h3 align="center">A Software Engineering Student From India</h3>  
+<h3 align="center">Software Engineering Student From India</h3>  
 
 <!--
 **codervignesh/codervignesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
