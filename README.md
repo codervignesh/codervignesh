@@ -24,14 +24,27 @@ Here are some ideas to get you started:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;pbatengf lbh sbhaq vg  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;JUST LEAVE IT...
 
+-----
   
 <p align="left">  
 <h3 align="left">Connect with me:</h3>  
-<a href="https://www.instagram.com/vignesh_r_/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram-new.png"/></a>  
+<a href="https://www.instagram.com/vignesh_r_/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>  
+<a href="https://www.linkedin.com/in/vignesh-r-/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>  
+<a href="https://www.hackerrank.com/vignesh929r" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>  
+<!--<a href="vigneshr2742@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>  -->
 </p>  
 
-# Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=codervignesh&show_icons=true&theme=radical)
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervignesh&layout=compact" alt="codervignesh" /></p>   
+-----
 
+## Github Stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img alt="Vignesh R Github Stats" src="https://github-readme-stats.vercel.app/api?username=codervignesh&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img alt="Vignesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervignesh&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=codervignesh&theme=highcontrast" />
