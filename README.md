@@ -28,10 +28,12 @@ Here are some ideas to get you started:
   
 <p align="left">  
 <h3 align="left">Connect with me:</h3>  
-<a href="https://www.instagram.com/vignesh_r_/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>  
 <a href="https://www.linkedin.com/in/vignesh-r-/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>  
-<a href="https://www.hackerrank.com/vignesh929r" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>  
+<a href="https://twitter.com/Vignesh06047026" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>  
+<a href="https://www.instagram.com/vignesh_r_/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>  
+<a href="https://www.hackerrank.com/vignesh929r" target="blank"><img align="center" width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>  
 <!--<a href="vigneshr2742@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>  -->
+
 </p>  
 
 -----
