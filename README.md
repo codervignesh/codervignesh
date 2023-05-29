@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/codervignesh](https://github.com/codervignesh)  
 
-- 📫 Reach me through: vignesh929r@gmail.com
+- 📫 Reach me through: vignesh929r@gmail.com | vigneshr2742@gmail.com
 
 -----
   
